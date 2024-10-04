@@ -1,5 +1,15 @@
 ## Hi there 👋
+Boas vindas ao meu perfil 💙💙
+Meu nome é Jully Ribas
 
+Estou estudando no Colégio Estadual do Paraná
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+jully.ribas@escola.pr.gov.br
+
+@jully2428
+![](https://i.pinimg.com/originals/fa/49/4e/fa494e85b6099eda29f75fa0ae547e7a.gif)
 <!--
 **Jully2428/Jully2428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
